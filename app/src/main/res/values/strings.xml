@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SerachView_github</string>
+    <string-array name="my_array">
+        <item>Pizza</item>
+        <item>Coke</item>
+        <item>HotDog</item>
+        <item>MarshMallow</item>
+        <item>Oreo</item>
+        <item>Doughnut</item>
+        <item>Snadwich</item>
+    </string-array>
+</resources>
